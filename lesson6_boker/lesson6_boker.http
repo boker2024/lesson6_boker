@@ -1,0 +1,6 @@
+@lesson6_boker_HostAddress = http://localhost:5199
+
+GET {{lesson6_boker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

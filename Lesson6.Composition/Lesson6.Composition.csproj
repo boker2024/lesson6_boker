@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lesson6.Core\Lesson6.Core.csproj" />
+    <ProjectReference Include="..\Lesson6.Data\Lesson6.Data.csproj" />
+    <ProjectReference Include="..\Lesson6.services\Lesson6.services.csproj" />
+  </ItemGroup>
+
+</Project>
